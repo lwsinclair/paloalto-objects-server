@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dynamicendpoints-paloalto-objects-server-badge.png)](https://mseep.ai/app/dynamicendpoints-paloalto-objects-server)
+
 # Palo Alto Objects Management MCP Server
 
 A Model Context Protocol (MCP) server that provides tools for managing objects in a Palo Alto Networks firewall, including address objects, service objects, application objects, and their respective groups.
